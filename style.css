@@ -1,0 +1,29 @@
+/* .txt{
+    color: rgb(255, 0, 0);
+}
+.two{
+    color: #242607;
+    font-size: 40px;
+    font-weight: bold;
+} 
+body{
+    background: rgb(252, 252, 252);
+    background-size: cover;
+    min-height: 100vh;
+    background-attachment: fixed;
+}
+.google{
+    text-align: justify;
+    word-spacing: 5px;
+    line-height: 2;
+    text-decoration:underline;
+
+} */
+.parent{
+    padding-left: 5%;
+    padding-bottom: 5%;
+    border-radius: 50px;
+    margin-left:15%;
+    border: 1px solid white;
+    background-color: lightslategray;
+}
